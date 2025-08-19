@@ -2,6 +2,17 @@
 
 A comprehensive AI-powered travel planning and assistance mobile application built with React Native, Expo, Supabase and powered by Google Gemini Pro AI. This project was built for PRJ3223 Capstone Project 2.
 
+<p align="center">
+  <img src="./assets/mockups/mockup3.png" alt="Plan a New Trip" width="700">
+</p>
+
+<p align="center">
+  <img src="./assets/mockups/mockup1.png" alt="Chat + Map" width="700">
+</p>
+<p align="center">
+  <img src="./assets/mockups/mockup2.png" alt="Home / Itinerary / Saves" width="700">
+</p>
+
 ## About This Project
 
 TRAVA (AI-Powered Travel Assistant) is a smart travel assistant that helps users plan, organize, and manage their trips with the power of artificial intelligence. The app provides personalized travel recommendations, intelligent itinerary planning, real-time place discovery, and contextual travel advice tailored to each user's specific trip details and preferences.
